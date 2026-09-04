@@ -6,6 +6,10 @@ Use these files when you want to see how the two interface versions differ in qu
 
 ## What’s in here
 
+> **Viewing these files on GitHub:** the two `*_FR.csv` files are several MB, and GitHub will not preview files that large in the browser (“Sorry about that, but we can’t show files that are this big right now”). The files are complete and uploaded correctly. To read them, click **Download raw file** on the file page, or clone the repo and open them locally. The two `*_time.csv` files are small enough to preview normally.
+>
+> Transcripts include Tibetan text. When you open a CSV in Excel or Google Sheets, import it as **UTF-8** so the text displays correctly.
+
 | File | Version | What it contains |
 | --- | --- | --- |
 | `Ume_batch_5_v2_FR.csv` | ITv2 | Full review (FR) export: transcripts, character-diff metrics, rejections, and related review fields |
