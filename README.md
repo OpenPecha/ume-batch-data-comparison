@@ -33,9 +33,3 @@ The workflows are not identical, so the columns are not identical either:
 - **ITv3:** three annotators and one reviewer. Time columns: `annotator_1_seconds`, `annotator_2_seconds`, `annotator_3_seconds`, `reviewer_seconds`.
 
 Tasks are identified by `file_number`. Join a version’s FR file to its time file on that field when you need both quality and timing for the same task.
-
-## Source
-
-- Batch: **ume_batch_5** (ITv3 exports use the batch name `ume_batch_5_v3`)
-- Image / page files come from the OCR-Benchmark Ume Batch 5 set
-- Exports are the full-review CSVs plus the per-task timing CSVs for each interface version
