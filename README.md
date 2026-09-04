@@ -4,6 +4,12 @@ This folder holds the data used to compare **ITv2** and **ITv3** on the same wor
 
 Use these files when you want to see how the two interface versions differ in quality (how much the transcripts change across annotators and reviewers) and in time (how long each role spent on a task).
 
+The write-up of that comparison — workflow differences, accuracy, quality, speed, cost, and findings — is here:
+
+[ITv2 vs ITv3: Transcription Workflow Comparison Report](https://forum.openpecha.org/t/itv2-vs-itv3-transcription-workflow-comparison-report/619)
+
+This repo is the underlying data for that report.
+
 ## What’s in here
 
 > **Viewing these files on GitHub:** the two `*_FR.csv` files are several MB, and GitHub will not preview files that large in the browser (“Sorry about that, but we can’t show files that are this big right now”). The files are complete and uploaded correctly. To read them, click **Download raw file** on the file page, or clone the repo and open them locally. The two `*_time.csv` files are small enough to preview normally.
